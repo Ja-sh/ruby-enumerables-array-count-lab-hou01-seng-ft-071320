@@ -17,3 +17,5 @@ def count_empty_strings(array)
     element == ""
   end
 end
+
+#My 1st solution test for empty strings!
